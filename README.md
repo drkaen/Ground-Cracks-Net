@@ -1,6 +1,6 @@
 # Ground Cracks Neural Network
 
-Neural network to recognize parameters of earth crack by its photo
+Neural Network for recognizing parameters of earth cracks by their photos
 
 Demonstration down below is for synthetic images
 
